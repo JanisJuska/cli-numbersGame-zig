@@ -152,5 +152,3 @@ This project was mainly created to practice:
 
 MIT
 
-```
-```
