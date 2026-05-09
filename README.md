@@ -1,4 +1,4 @@
-````md
+
 # CLI Numbers Game (Zig)
 
 A simple terminal number guessing game written in Zig.
@@ -27,8 +27,7 @@ Check your Zig version:
 
 ```bash
 zig version
-````
-
+```
 ---
 
 ## Clone Repository
